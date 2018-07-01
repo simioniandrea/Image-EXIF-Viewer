@@ -1,2 +1,2 @@
 # Image-EXIF-Viewer
-project for Human Computer Interaction
+Project for the exam of Human Computer Interaction. The Image - EXIF Viewer implements the following features:
