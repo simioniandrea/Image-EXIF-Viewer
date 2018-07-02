@@ -13,5 +13,11 @@ Project for the exam of Human Computer Interaction. The Image-EXIF Viewer implem
 
 ![Mockup](/mockup/mockup.png)
 
+## Prerequisites
+The Image-EXIF Viewer requires:
 
+* Python 2.7
+* Tkinter
+* Pillow(PIL fork)
+* PyExifTool
 
