@@ -22,7 +22,7 @@ The software requires:
 * PyExifTool
 
 ## Implementation
-Image-EXIF Viewer was implemented using Python and pattern MVC. Tkinter was used for developing the GUI, and with several element (```Button```,```Table```) allows the behaviours previously described.
+Image-EXIF Viewer was implemented using Python and pattern MVC. Tkinter was used for developing the GUI, and with several elements (```Button```,```Table```) allows the behaviours previously described.
 
 ## Functionalities
 The program can be launched from the ```MainView.py``` script:
