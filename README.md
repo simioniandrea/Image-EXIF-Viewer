@@ -26,6 +26,8 @@ Image-EXIF Viewer was implemented using Python and pattern MVC. Tkinter was used
 
 # Functionalities
 The program can be launched from the ```MainView.py``` script:
+
+
 ```$ python MainView.py```
 
 ## Possible Improvements
