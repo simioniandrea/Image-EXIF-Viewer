@@ -11,4 +11,7 @@ Project for the exam of Human Computer Interaction. The Image-EXIF Viewer implem
 ```MainView``` consists of menu bar where the user can upload an image,rotate it on the left/right by 90°,get EXIF data and slide to next/previous image using several buttons. In particular,the button related to EXIF opens a new window where all  data extracted in ```ExifModel``` are placed in a table. If are presents both latitude and longitude in data, a button appears on the bottom of table that sends a HTTP request to Google Maps for geolocalization. For loading multiple images, the user has to reclick the button "Load Image" and select another one. All the images are inserted into an array in ```ExifModel```; the buttons with left/right arrow slide the array and allow the user to visualize previous and next images.
 
 
+![Mockup](/mockup/mockup.png)
+
+
 
