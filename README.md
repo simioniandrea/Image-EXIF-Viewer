@@ -8,7 +8,7 @@ Project for the exam of Human Computer Interaction. The Image-EXIF Viewer implem
 * Geolocalization: Allow to see the position on Google Maps
 * View multiple images
 
-```MainView``` consists of menu bar where the user can upload an image,rotate it on the left/right,get EXIF data and slide to next previous/image through several buttons. In particular,the button related to EXIF opens a new window where all extracted data are placed in a table. If there are presents both latitude and longitude in data,a button appears on the bottom of table that sends a HTTP request to Google Maps 
+```MainView``` consists of menu bar where the user can upload an image,rotate it on the left/right by 90°,get EXIF data and slide to next/previous image using several buttons. In particular,the button related to EXIF opens a new window where all extracted data are placed in a table. If are presents both latitude and longitude in data, a button appears on the bottom of table that sends a HTTP request to Google Maps for geolocalization. For loading multiple images, the user has to reclick the button "Load Image" and select another one; the buttons with left/right arrow allow the user to visualize previous and next images.
 
 
 
