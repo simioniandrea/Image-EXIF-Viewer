@@ -14,11 +14,12 @@ Project for the exam of Human Computer Interaction. The Image-EXIF Viewer implem
 ![Mockup](/mockup/mockup.png)
 
 ## Prerequisites
-The Image-EXIF Viewer requires:
+The software requires:
 
 * Python 2.7
 * Tkinter
 * Pillow(PIL fork)
 * PyExifTool
 
-## Load Image,Rotation,sliding
+## Implementation
+Image-EXIF Viewer was implemented using Python and pattern MVC. Tkinter was used for developing the GUI.
