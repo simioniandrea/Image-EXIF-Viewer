@@ -24,6 +24,10 @@ The software requires:
 ## Implementation
 Image-EXIF Viewer was implemented using Python and pattern MVC. Tkinter was used for developing the GUI, and with several element (```Button```,```Table```) allows the behaviours previously described.
 
+# Functionalities
+The program can be launched from the ```MainView.py``` script:
+```$ python MainView.py```
+
 ## Possible Improvements
 Any possible improvements to Image-EXIF Viewer could be:
 * Instead to send an HTTP request for geolocalization,open a new frame with maps widget
