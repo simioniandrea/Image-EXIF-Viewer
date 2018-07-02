@@ -21,3 +21,4 @@ The Image-EXIF Viewer requires:
 * Pillow(PIL fork)
 * PyExifTool
 
+## Load Image,Rotation,sliding
